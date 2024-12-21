@@ -1,0 +1,22 @@
+{
+  "name": "test-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^11.1.0",
+    "openai": "^4.72.0",
+    "puppeteer": "^23.9.0",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/puppeteer": "^5.4.7"
+  }
+}

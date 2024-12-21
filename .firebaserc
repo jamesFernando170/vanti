@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "vanti-security-alerts",
+    "vanti": "vanti-security-alerts"
+  },
+  "targets": {},
+  "etags": {}
+}
